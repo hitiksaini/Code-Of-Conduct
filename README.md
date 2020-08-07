@@ -1,6 +1,6 @@
 # Code of Conduct
            
-
+Find below the instructions and guidelines of our community.
 ## 1. Purpose
 
 A primary goal of Mozilla Chandigarh Community is to be inclusive to the largest number of contributors, with technical or educational background. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, ability, ethnicity, and religion (or lack thereof).
